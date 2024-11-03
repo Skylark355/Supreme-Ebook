@@ -30,7 +30,6 @@ body {
   align-items: center;
   color: white;
   padding: 0 10px 0 10px;
-
   /* border: 2px solid white; */
 }
 
@@ -122,17 +121,13 @@ body {
   margin: 3rem auto 0;
   /* background-color: red; */
   width: 90%;
-  height: 100px;
   display: flex;
   gap: 40px;
-  /* align-items: center; */
-  /* justify-content: center; */
 }
 
 .first-card {
   width: 55%;
   height: 600px;
-  /* padding: 30px; */
   color: black;
   border-radius: 20px;
   /* background-color: green; */
@@ -144,7 +139,6 @@ body {
   align-items: center;
   padding-top: 50px;
   margin-bottom: 20px;
-  /* gap: 5px; */
   /* border: 2px solid black; */
 }
 
@@ -206,7 +200,7 @@ body {
 }
 
 .f-card3 img:hover {
- cursor: pointer;
+  cursor: pointer;
 }
 
 .f-card4 {
@@ -262,3 +256,170 @@ body {
   height: 550px;
 }
 /* hero section emds here  */
+
+/* contect section begins here  */
+
+.content {
+  width: 95%;
+  background-color: #52451e;
+  border-radius: 20px;
+  margin: 0 auto;
+  padding: 3rem;
+  color: white;
+  display: flex;
+  /* gap: 10px; */
+}
+
+.third-card {
+  width: 50%;
+}
+
+.third-top {
+  width: 80%;
+  margin-bottom: 6rem;
+}
+
+.third-top h1 {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 48px;
+}
+
+.third-top span {
+  color: #ffb800;
+}
+
+.third-top p {
+  line-height: 30px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.third-bottom {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  /* border: 2px solid black */
+}
+
+.one {
+  width: 45%;
+  /* border: 2px solid black; */
+  border-right: 2px solid white;
+}
+
+.one h1 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #ffb800;
+}
+
+.one span {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.two {
+  width: 25%;
+  border-right: 2px solid white;
+  /* border: 2px solid black */
+}
+
+.two h1 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #ffb800;
+  margin-left: 10px;
+}
+
+.two span {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.three {
+  width: 25%;
+  /* border-right: 2px solid white; */
+  /* border: 2px solid black */
+}
+
+.three h1 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #ffb800;
+  margin-left: 10px;
+}
+
+.three span {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+.fourth-card {
+  width: 50%;
+  gap: 30px;
+  display: flex;
+  /* background-color: red; */
+}
+
+.ios {
+  width: 60%;
+  height: 380px;
+  color: #52451e;
+  background-color: white;
+  border-radius: 20px;
+  padding: 30px;
+}
+
+.ios h1 {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 50px;
+}
+
+.ios p {
+  margin-bottom: 40px;
+}
+
+.download {
+  width: 80%;
+  background-color: #ffb800;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.download h3 {
+  font-size: 18px;
+}
+
+.qr {
+  display: flex;
+}
+
+.code1 {
+  height: 70px;
+  width: 70px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: black;
+  position: relative;
+  top: 7rem;
+}
+
+.code2 {
+  position: relative;
+  top: 120px;
+  left: 100px;
+  width: 90px;
+}
+
+/* contect section ends here  */
