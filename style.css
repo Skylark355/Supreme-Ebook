@@ -83,13 +83,13 @@ body {
   /* border: 2px solid white; */
 }
 
-.nav-links li:nth-child(1) a {
+/* .nav-links li:nth-child(1) a {
   color: #ffb800;
-  border-bottom: 3px solid #ffb800;
-}
+} */
 
 .nav-links ul li a:hover {
   color: #ffb800;
+  border-bottom: 3px solid #ffb800;
 }
 
 .navbar .cta {
