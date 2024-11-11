@@ -423,3 +423,303 @@ body {
 }
 
 /* contect section ends here  */
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .nav-logo {
+    width: 20%;
+    /* border: 2px solid black; */
+  }
+
+  .nav-img img {
+    width: 50%;
+  }
+
+  .nav-logo h3 {
+    font-size: 1.5rem;
+  }
+
+  .nav-links {
+    width: 70%;
+  }
+
+  .nav-links ul {
+    gap: 30px;
+    width: 100%;
+    /* border: 2px solid white; */
+    padding: 0 10px;
+  }
+
+  .navbar .cta {
+    width: 20%;
+    /* border: solid white; */
+  }
+
+  .cta h3 {
+    width: 70%;
+    height: 40px;
+  }
+
+  .first-card {
+    height: 550px;
+  }
+  .f-card1 span {
+    font-size: 20px;
+  }
+
+  .f-card2 h1 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  .f-card2 p {
+    font-size: 14px;
+  }
+
+  .f-card3 {
+    gap: 40px;
+  }
+
+  .f-card3 img {
+    width: 220px;
+    height: 60px;
+    margin-bottom: 20px;
+  }
+
+  .f-card4 {
+    gap: 90px;
+  }
+
+  .f-card4-2 p {
+    font-size: 16px;
+  }
+  .s-card-image {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+  }
+
+  .s-card-image img {
+    height: 500px;
+    width: 100%;
+  }
+
+  .content {
+    height: 400px;
+    padding: 3rem auto 0;
+  }
+
+  .third-top {
+    margin-bottom: 3rem;
+  }
+
+  .third-top h1 {
+    font-size: 30px;
+  }
+
+  .third-top p {
+    font-size: 14px;
+  }
+
+  .one h1 {
+    line-height: 30px;
+  }
+
+  .two h1 {
+    line-height: 30px;
+  }
+
+  .three h1 {
+    line-height: 30px;
+  }
+
+  .ios {
+    width: 60%;
+    height: 300px;
+  }
+
+  .ios h1 {
+    font-size: 24px;
+    line-height: 50px;
+  }
+
+  .ios p {
+    margin-bottom: 30px;
+  }
+
+  .download {
+    width: 90%;
+    padding: 10px;
+  }
+
+  .download h3 {
+    font-size: 14px;
+  }
+
+  .qr {
+    display: flex;
+  }
+
+  .code1 {
+    height: 60px;
+    width: 60px;
+    top: 2rem;
+  }
+
+  .code2 {
+    position: relative;
+    top: 50px;
+    left: 45%;
+    width: 90px;
+  }
+}
+
+@media (min-width: 1281px) {
+  .nav-logo {
+    width: 20%;
+    /* border: 2px solid black; */
+  }
+
+  .nav-img img {
+    width: 50%;
+  }
+
+  .nav-logo h3 {
+    font-size: 1.5rem;
+  }
+
+  .nav-links {
+    width: 70%;
+  }
+
+  .nav-links ul {
+    gap: 30px;
+    width: 100%;
+    /* border: 2px solid white; */
+    padding: 0 10px;
+  }
+
+  .navbar .cta {
+    width: 20%;
+    /* border: solid white; */
+  }
+
+  .cta h3 {
+    width: 70%;
+    height: 40px;
+  }
+
+  .first-card {
+    height: 550px;
+  }
+  .f-card1 span {
+    font-size: 20px;
+  }
+
+  .f-card2 h1 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  .f-card2 p {
+    font-size: 14px;
+  }
+
+  .f-card3 {
+    gap: 40px;
+  }
+
+  .f-card3 img {
+    width: 220px;
+    height: 60px;
+    margin-bottom: 20px;
+  }
+
+  .f-card4 {
+    gap: 90px;
+  }
+
+  .f-card4-2 p {
+    font-size: 16px;
+  }
+  .s-card-image {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+  }
+
+  .s-card-image img {
+    height: 500px;
+    width: 100%;
+  }
+
+  .content {
+    height: 400px;
+    padding: 3rem auto 0;
+  }
+
+  .third-top {
+    margin-bottom: 3rem;
+  }
+
+  .third-top h1 {
+    font-size: 30px;
+  }
+
+  .third-top p {
+    font-size: 14px;
+  }
+
+  .one h1 {
+    line-height: 30px;
+  }
+
+  .two h1 {
+    line-height: 30px;
+  }
+
+  .three h1 {
+    line-height: 30px;
+  }
+
+  .ios {
+    width: 60%;
+    height: 300px;
+  }
+
+  .ios h1 {
+    font-size: 24px;
+    line-height: 50px;
+  }
+
+  .ios p {
+    margin-bottom: 30px;
+  }
+
+  .download {
+    width: 90%;
+    padding: 10px;
+  }
+
+  .download h3 {
+    font-size: 14px;
+  }
+
+  .qr {
+    display: flex;
+  }
+
+  .code1 {
+    height: 60px;
+    width: 60px;
+    top: 2rem;
+  }
+
+  .code2 {
+    position: relative;
+    top: 50px;
+    left: 100px;
+    width: 90px;
+  }
+}
